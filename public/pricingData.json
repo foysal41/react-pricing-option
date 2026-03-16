@@ -4,6 +4,7 @@
     "name": "Basic",
     "price": 25,
     "duration": "month",
+    "description": "Perfect for beginners who want access to essential gym facilities and equipment.",
     "features": [
       "Access to gym equipment",
       "Locker room access",
@@ -20,6 +21,7 @@
     "name": "Pro",
     "price": 45,
     "duration": "month",
+    "description": "Great for regular gym members who want classes, guidance, and additional fitness support.",
     "features": [
       "All Basic features",
       "Group fitness classes",
@@ -37,6 +39,7 @@
     "name": "Elite",
     "price": 70,
     "duration": "month",
+    "description": "Best for serious fitness enthusiasts who want premium services and unlimited training support.",
     "features": [
       "All Pro features",
       "Unlimited personal training",
