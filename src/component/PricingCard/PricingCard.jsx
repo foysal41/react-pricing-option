@@ -4,7 +4,7 @@ import PricingFeatures from './PricingFeatures';
 const PricingCard = ({pricing}) => {
     const {name, price, description, features} = pricing
     return (
-        <div className='border bg-amber-600 rounded-2xl p-4'>
+        <div className='border flex flex-col flex-1 bg-amber-600 rounded-2xl p-4'>
 
             {/* Card header */}
             <div>
@@ -19,6 +19,8 @@ const PricingCard = ({pricing}) => {
                     features.map((feature , index) => <PricingFeatures key={index} feature={feature}></PricingFeatures>)
                 }
             </div>
+
+            <button className="btn btn-full bg-black mt-4 text-white">Subscribe</button>
         </div>
     );
 };
