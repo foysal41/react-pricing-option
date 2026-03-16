@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 25,
+    "duration": "month",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "Free WiFi",
+      "1 fitness assessment",
+      "Open gym hours",
+      "Cardio training area",
+      "Strength training area",
+      "Mobile app workout tracking"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pro",
+    "price": 45,
+    "duration": "month",
+    "features": [
+      "All Basic features",
+      "Group fitness classes",
+      "Sauna access",
+      "2 personal training sessions",
+      "Nutrition guidance",
+      "Body composition analysis",
+      "Access to yoga & HIIT classes",
+      "Guest pass (1 per month)",
+      "Priority class booking"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Elite",
+    "price": 70,
+    "duration": "month",
+    "features": [
+      "All Pro features",
+      "Unlimited personal training",
+      "Custom workout program",
+      "Priority booking for classes",
+      "24/7 gym access",
+      "Private locker",
+      "Recovery & massage therapy",
+      "Exclusive fitness workshops",
+      "Dedicated fitness coach",
+      "Premium lounge access"
+    ]
+  }
+]
